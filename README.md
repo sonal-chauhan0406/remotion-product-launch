@@ -13,6 +13,19 @@
 
 > *A breath-taking, code-driven video template featuring dark glassmorphism, fluid animations, and data-rich scenes.*
 
+<br/>
+
+<!-- 🎥 PASTE YOUR DEMO VIDEO URL OR GIF BELOW -->
+<!-- Option 1: Clickable thumbnail/badge link -->
+[![Watch the demo](https://img.shields.io/badge/▶_Watch_Demo_Video-black?style=for-the-badge)](#YOUR_VIDEO_URL_HERE)
+
+<!-- Option 2: Direct video embed (Uncomment if you have a direct .mp4 link) -->
+<!-- 
+<video width="100%" autoPlay loop muted controls>
+  <source src="YOUR_VIDEO_URL_HERE" type="video/mp4" />
+</video> 
+-->
+
 </div>
 
 <br/>
@@ -78,39 +91,3 @@ Show, don't tell. Illustrates how your product simplifies complex workflows.
 1. **Install Dependencies**
    ```bash
    npm install
-   ```
-
-2. **Launch the Studio**
-   Experience the video in real-time. Scrub the timeline and tweak React props on the fly.
-   ```bash
-   npm start
-   ```
-
-3. **Render to MP4**
-   Compile your React components into a fluid video file.
-   ```bash
-   npm run build
-   ```
-   *Output will be generated at `out/video.mp4`.*
-
----
-
-## 🏗️ Architecture
-
-```text
-src/
-├── components/          # The building blocks
-│   ├── Background.tsx   # Global glassmorphism canvas
-│   ├── GlassCard.tsx    # Reusable UI containers
-│   └── Scene*.tsx       # Individual video segments
-├── index.ts             # Entry point
-├── ProductLaunch.tsx    # The master timeline sequence
-├── Root.tsx             # Remotion composition registry
-└── types.ts             # Strict typing
-```
-
-<br/>
-
-<div align="center">
-  <i>Rendered with code.</i>
-</div>
