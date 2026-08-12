@@ -21,7 +21,7 @@
 
 Watch the demo video to see the cinematic animations and scenes in action!
 
-[![Watch Demo Video](https://drive.google.com/file/d/1LUaSPRZDPVm1lYNuSCAturxheGJ6mPMd/view?usp=drivesdk)
+[**Watch the Demo Video Here**](https://drive.google.com/file/d/1LUaSPRZDPVm1lYNuSCAturxheGJ6mPMd/view?usp=drivesdk)
 
 ---
 
