@@ -16,18 +16,14 @@
 </div>
 
 <br/>
-<!-- 🎥 PASTE YOUR DEMO VIDEO URL OR GIF BELOW -->
-<!-- Option 1: Clickable thumbnail/badge link -->
-[![Watch the demo](https://img.shields.io/badge/▶_Watch_Demo_Video-black?style=for-the-badge)](#YOUR_VIDEO_URL_HERE)
 
-<!-- Option 2: Direct video embed (Uncomment if you have a direct .mp4 link) -->
-<!-- 
-<video width="100%" autoPlay loop muted controls>
-  <source src="YOUR_VIDEO_URL_HERE" type="video/mp4" />
-</video> 
--->
+## 🍿 Demo Video
 
-</div>
+Watch the demo video to see the cinematic animations and scenes in action!
+
+[**Watch the Demo Video Here**](#) *(Replace with actual link)*
+
+---
 
 <br/>
 
